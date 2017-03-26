@@ -48,7 +48,7 @@ Reading list for the American novel and short story from the 1980s to the presen
 * John Kennedy Toole, *A Confederacy of Dunces* 
 * Monique Truong, *The Book of Salt*
 * Alice Walker, *The Color Purple*
-* David Foster Wallace, "The Soul Is Not a Smithy"
+* David Foster Wallace, "The Soul Is Not a Smithy" and "Consider the Lobster" 
 * Jeff VanderMeer, *The Southern Reach Trilogy*
 * Gerald Vizenor, *The Heirs of Columbus*
 * Colson Whitehead, *The Underground Railroad* 
