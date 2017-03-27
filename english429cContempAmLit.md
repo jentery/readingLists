@@ -33,7 +33,7 @@ Reading list for the American novel and short story from the 1980s to the presen
 * Viet Thanh Nguyen, *The Sympathizer*
 * Tim O'Brien, "The Things They Carried"
 * Joyce Carol Oates, *Black Water*
-* Nnedi Okorafor, *Who Fears Death* 
+* Nnedi Okorafor, *Who Fears Death* and *Binti* 
 * Ruth Ozeki, *My Year of Meats* and *A Tale for the Time Being*
 * Marilynne Robinson, *Home* 
 * Karen Russell, *Swamplandia!* 
