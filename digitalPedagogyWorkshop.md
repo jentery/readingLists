@@ -14,7 +14,7 @@
 * English 507 (Arguing with Computers): http://jentery.github.io/507/
 * Enlgish 508 (Prototyping Texts): https://jentery.github.io/508v2/
 
-# MLab Projects 
+## MLab Projects 
 
 * Early Magnetic Recording: http://maker.uvic.ca/emrkit/ and https://github.com/uvicmakerlab/magneticRecordingKit
 * The Reading Optophone: http://maker.uvic.ca/rokit/ and https://github.com/uvicmakerlab/optophoneKit
