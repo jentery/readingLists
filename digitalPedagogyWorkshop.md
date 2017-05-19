@@ -1,8 +1,8 @@
-# MLA PROJECT 
+## MLA Project  
 
 * Digital Pedagogy in the Humanities (Davis, Gold, Harris, and Sayers, eds.): https://digitalpedagogy.mla.hcommons.org/ and https://github.com/curateteaching/digitalpedagogy
 
-# COURSES AT UVIC 
+## Courses at UVic 
 
 * Digital Pedagogy Course (Digital Humanities Summer Institute, with Katherine D. Harris and Diane Jakacki): http://web.uvic.ca/~englblog/pedagogydhsi/
 * Digital Humanities 150 (Intro to Digital Methods, 2011-12): http://jenteryteaches.com/2011/150/
@@ -14,7 +14,7 @@
 * English 507 (Arguing with Computers): http://jentery.github.io/507/
 * Enlgish 508 (Prototyping Texts): https://jentery.github.io/508v2/
 
-# MLAB PROJECTS 
+# MLab Projects 
 
 * Early Magnetic Recording: http://maker.uvic.ca/emrkit/ and https://github.com/uvicmakerlab/magneticRecordingKit
 * The Reading Optophone: http://maker.uvic.ca/rokit/ and https://github.com/uvicmakerlab/optophoneKit
