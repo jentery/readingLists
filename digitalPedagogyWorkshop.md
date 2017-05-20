@@ -20,3 +20,16 @@
 * The Reading Optophone: http://maker.uvic.ca/rokit/ and https://github.com/uvicmakerlab/optophoneKit
 * Early Wearables: http://maker.uvic.ca/ewkit/ and https://github.com/uvicmakerlab/earlyWearablesKit
 * The Crocodile Cafe Exhibit: http://maker.uvic.ca/croc/
+
+## Assessment 
+
+* "How to Evaluate Digital Scholarship," by Todd Presner, http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/
+* "Assessing Scholarly Multimedia," by Cheryl Ball, http://ceball.com/wp-content/uploads/2012/01/TCQ-Ball-publishedversion.pdf
+* The Shape of History, http://shapeofhistory.net/
+* Invaders, http://survivance.org/invaders/
+* Black Quotidian, http://blackquotidian.com/
+* Map of Early Modern London, https://mapoflondon.uvic.ca/
+* Virtual St. Paul's Cathedral Project, https://vpcp.chass.ncsu.edu/
+* Rikers Bot, https://twitter.com/rikersbot?lang=en
+* The Programming Historian, http://programminghistorian.org/lessons/
+* DH-USB, https://github.com/DH-Box/dh-usb
